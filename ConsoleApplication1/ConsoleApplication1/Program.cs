@@ -10,6 +10,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Nakonec ya kinul suda project!");
+            Console.WriteLine("Nakonec ya kinul suda project!");
         }
     }
 }
