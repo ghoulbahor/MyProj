@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Nakonec ya kinul suda project!");
             Console.WriteLine("Nakonec ya kinul suda project!");
+			Console.WriteLine("Здсь был Дима Д.")
         }
     }
 }
